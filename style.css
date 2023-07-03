@@ -15,4 +15,7 @@ blockquote ol {
 .block.padded.ch_vpadding {
     padding: 10px 0 !important;
 }
-
+/*to solve:in sd-webui-aki-v4.2 no-preview picture cover helper buttons*/
+.additional{
+    position: absolute;
+}
